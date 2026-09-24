@@ -3,6 +3,6 @@
   "short_name": "COPA CAP",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f4f5f7",
-  "theme_color": "#071d35"
+  "background_color": "#041426",
+  "theme_color": "#061b33"
 }
