@@ -1,8 +1,9 @@
 {
   "name": "COPA CAP 2026 — Portal Público",
-  "short_name": "COPA CAP",
+  "short_name": "COPA CAP 2026",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#041426",
-  "theme_color": "#061b33"
+  "background_color": "#03162b",
+  "theme_color": "#041a33",
+  "icons": []
 }
